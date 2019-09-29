@@ -1,0 +1,33 @@
+.explore {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.explore .images {
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	margin-bottom: 46px;
+}
+
+.explore .description {
+	width: 540px;
+
+}
+
+.explore .button {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #EF8E70;
+	width: 160px;
+	height: 50px;
+	text-decoration: none;
+	color: #FFF;
+	font-size: 14px;
+	line-height: 1em;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+}	
+
